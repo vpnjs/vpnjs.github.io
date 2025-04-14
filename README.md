@@ -15,11 +15,11 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [官网链接](https://cn2.vpnjs.net)
-#### :arrow_double_down: [iOS 下载](https://cl.shortapp.net/seo/d/ios)
-#### :arrow_double_down: [Mac 下载](https://cn2.vpnjs.net/d/heibao/heibao_mac.pkg)
-#### :arrow_double_down: [Android 下载](https://cn2.vpnjs.net/d/heibao/heibao_android.apk)
-#### :arrow_double_down: [Windows 下载](https://cn2.vpnjs.net/d/heibao/heibao_win.exe)
+#### :arrow_double_down: [官网链接](https://cr.shortapp.net/seo)
+#### :arrow_double_down: [iOS 下载](https://cr.shortapp.net/seo/d/ios)
+#### :arrow_double_down: [Mac 下载](https://cr.shortapp.net/seo/d/heibao/heibao_mac.pkg)
+#### :arrow_double_down: [Android 下载](https://cr.shortapp.net/seo/d/heibao/heibao_android.apk)
+#### :arrow_double_down: [Windows 下载](https://cr.shortapp.net/seo/d/heibao/heibao_win.exe)
 
 
 
