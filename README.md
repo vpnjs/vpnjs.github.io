@@ -81,7 +81,7 @@ OK，以上三款就是目前在中国大陆**最好用**的VPN软件。它们�
 
 ### 中国VPN推荐（一）：<a href="https://fastexp.net/?source=github|default">ExpressVPN - 翻墙稳定，速度最快，3.49美金/月</a>
 
-![ExpressVPN Banner：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E5%AE%98%E7%BD%91.png)
+![ExpressVPN Banner：中国VPN推荐，最好用的VPN排行](https://vpnjs.github.io/vpnassets/img/ExpressVPN%E5%AE%98%E7%BD%91.png)
 
 <blockquote>
 
@@ -101,7 +101,7 @@ ExpressVPN的客户端软件设计非常人性化，支持Windows、MacOS、iOS�
 
 在价格方面，ExpressVPN比其他国内VPN软件要贵一点点，其月付套餐为12.95美元。不过，目前ExpressVPN推出了特别限时优惠活动：**现在订购两年套餐可额外获赠4个月，每月仅需3.49美元**。更重要的是，ExpressVPN提供30天无条件退款保证，这意味着你可以完全无风险地试用一个月。我的建议是：先按自己的网络环境实测，如果感觉**不好用**或不符合预期，直接走退款流程即可；而一旦你需要的是长期稳定**好用**的体验，就不要被“**破解版**”的噱头所诱惑。
 
-![ExpressVPN价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
+![ExpressVPN价格：中国VPN推荐，最好用的VPN排行](https://vpnjs.github.io/vpnassets/img/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
 总的来说，如果你对VPN的翻墙稳定性和速度有较高要求，那么ExpressVPN绝对是在中国使用VPN的最佳选择。特别是对于那些需要长期稳定翻墙的用户，比如从事国际贸易或国际金融，以及经常需要访问国外网站的朋友来说，ExpressVPN几乎是唯一能让你省心、真正**好用**的选择。**再次提醒：不建议使用任何“VPN 破解版”，既不安全，也很难有真正好用的长期体验。**
 
@@ -117,13 +117,13 @@ ExpressVPN是一款成熟且易用的VPN，无论是购买账号，还是下载�
 
 * ExpressVPN官方网站：<a href="https://fastexp.net/?source=github|default">www.expressvpn.com</a>
 
-![第一步：点击我们提供的优惠链接进入ExpressVPN官网](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E5%AE%98%E7%BD%91.png)
+![第一步：点击我们提供的优惠链接进入ExpressVPN官网](https://vpnjs.github.io/vpnassets/img/ExpressVPN%E5%AE%98%E7%BD%91.png)
 
 #### 第二步：选择适合你的付费套餐，比如“2年+4个月”套餐。
 
 ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年套餐的性价比最高，不仅单月费用更低，还额外赠送4个月的免费使用期，折算下来每月价格更加实惠。你可以根据自身需求选择适合的套餐，但如果计划长期使用，2年套餐无疑是最佳选择。同时，所有套餐均享有ExpressVPN提供的30天无理由退款保证，让你可以无风险地体验其服务。
 
-![第二步：选择适合你的付费套餐，比如“2年+4个月”套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
+![第二步：选择适合你的付费套餐，比如“2年+4个月”套餐](https://vpnjs.github.io/vpnassets/img/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
 #### 第三步：输入电子邮箱注册，并按照系统提示完成支付。
 
@@ -151,7 +151,7 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 
 目前，获取非中国区苹果Apple ID账号的方式有很多，但对于国内大多数普通用户来说，最简单且最安全的方法是通过第三方平台，直接购买一个现成的非中国区Apple ID账号。
 
-![银河录像局官网：苹果iOS用户如何下载ExpressVPN客户端](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/nf-video.png)
+![银河录像局官网：苹果iOS用户如何下载ExpressVPN客户端](https://vpnjs.github.io/vpnassets/img/nf-video.png)
 
 银河录像局成立于2019年，隶属于杭州崇宇信息科技有限公司，拥有浙ICP备2022036459号备案和ICP经营许可证（浙B2-20230847），是一个权威、安全、可靠的正规平台。银河录像局主要提供Netflix、HBO Max、Spotify、Disney+、YouTube等流媒体账号合租服务，以及ChatGPT、Claude、Midjourney、Grok等AI工具的合租服务。
 
@@ -186,7 +186,7 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 
 ### 中国VPN推荐（二）：<a href="https://faststrong.net/?source=github|default">StrongVPN - 老牌VPN，3.97美金/月，支付宝付款</a>
 
-![StrongVPN Banner：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN%20Banner.jpg)
+![StrongVPN Banner：中国VPN推荐，最好用的VPN排行](https://vpnjs.github.io/vpnassets/img/StrongVPN%20Banner.jpg)
 
 <blockquote>
 
@@ -210,7 +210,7 @@ StrongVPN的客户端软件也非常简单易用。无论是Windows、MacOS、iO
 
 在价格方面，StrongVPN的性价比较高，**年付套餐折合每月仅需3.97美元，年总计47.69美元**，对于预算有限的用户来说是一个不错的选择。此外，StrongVPN经常推出促销活动，如果在活动期间购买，价格会更加优惠。另外，StrongVPN还提供30天退款保证，有任何不满意的都可以随时申请全额退款。
 
-![StrongVPN Price：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN%20Price.jpg)
+![StrongVPN Price：中国VPN推荐，最好用的VPN排行](https://vpnjs.github.io/vpnassets/img/StrongVPN%20Price.jpg)
 
 总体而言，StrongVPN也是一款非常**好用**的中国VPN软件，虽然在翻墙稳定性和连接速度等方面不如ExpressVPN那么出色，但它的价格相对便宜很多，而且支持支付宝付款，这对中国用户来说特别方便。另外，StrongVPN还提供24小时的中文在线客服支持，遇到问题时可以用中文直接沟通，不用担心语言障碍。如果你只是想购买一款相对稳定可靠的翻墙工具，并不过分追求极致的性能表现的话，StrongVPN绝对值得考虑，性价比还是很不错的。**再次提醒：请慎用任何所谓“StrongVPN 破解版”或“通用VPN 破解版”，既不安全也不**好用**，正规渠道才是长期稳定的保障。**
 
@@ -225,21 +225,21 @@ StrongVPN是一款非常成熟的中国VPN软件，官网界面简洁直观。�
 
 * StrongVPN官网：<a href="https://faststrong.net/?source=github|default">strongvpn.com</a>
 
-![第一步：打开StrongVPN官网，并点击“Start Now”按钮](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-1.png)
+![第一步：打开StrongVPN官网，并点击“Start Now”按钮](https://vpnjs.github.io/vpnassets/img/StrongVPN-1.png)
 
 #### 第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮。
 
-![第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-2.png)
+![第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮](https://vpnjs.github.io/vpnassets/img/StrongVPN-2.png)
 
 #### 第三步：输入你的电子邮箱地址，并使用支付宝完成付款。
 
-![第三步：输入你的电子邮箱地址，并使用支付宝完成付款](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-3.png)
+![第三步：输入你的电子邮箱地址，并使用支付宝完成付款](https://vpnjs.github.io/vpnassets/img/StrongVPN-3.png)
 
 ### 如何下载StrongVPN APP客户端?
 
 StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。如果你使用的是Windows、Mac或Android设备，只需打开<a href="https://faststrong.net/?source=github|default">StrongVPN官网</a>，选择适用于你设备的APP客户端，并按照系统提示操作即可轻松完成下载和安装，非常简单，没什么好说的。但如果你使用的是苹果iOS设备，则必须先获取一个海外Apple ID账号，才能顺利下载StrongVPN iOS客户端。
 
-![如何下载StrongVPN APP客户端](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-4.png)
+![如何下载StrongVPN APP客户端](https://vpnjs.github.io/vpnassets/img/StrongVPN-4.png)
 
 **<p align="center"><a href="https://faststrong.net/?source=github|default" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a></p>**
 
