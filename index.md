@@ -105,7 +105,7 @@ ExpressVPN的客户端软件设计非常人性化，支持Windows、MacOS、iOS�
 
 总的来说，如果你对VPN的翻墙稳定性和速度有较高要求，那么ExpressVPN绝对是在中国使用VPN的最佳选择。特别是对于那些需要长期稳定翻墙的用户，比如从事国际贸易或国际金融，以及经常需要访问国外网站的朋友来说，ExpressVPN几乎是唯一能让你省心、真正**好用**的选择。**再次提醒：不建议使用任何“VPN 破解版”，既不安全，也很难有真正好用的长期体验。**
 
-**<p align="center"><a href="https://fastexp.net/?source=github|default" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
+**<a href="https://fastexp.net/?source=github|default" rel="nofollow">立即获取ExpressVPN，30天免费</a>**
   
 ### 中国用户如何购买和使用ExpressVPN？
 
@@ -180,7 +180,7 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 
 总的来说，ExpressVPN在中国的使用还是比较简单的，大部分情况下按照默认设置就能正常连接和使用。不过，如果你能掌握了ExpressVPN的这些小技巧，在遇到问题时就可以快速解决，从而获得**更好用**的使用体验。**不建议使用任何“VPN 破解版”，不但可能泄露隐私，还会显著降低可用性与稳定性。**
 
-**<p align="center"><a href="https://fastexp.net/?source=github|default" rel="nofollow">立即获取ExpressVPN（30天免费）</a></p>**
+**<a href="https://fastexp.net/?source=github|default" rel="nofollow">立即获取ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -215,7 +215,7 @@ StrongVPN的客户端软件也非常简单易用。无论是Windows、MacOS、iO
 总体而言，StrongVPN也是一款非常**好用**的中国VPN软件，虽然在翻墙稳定性和连接速度等方面不如ExpressVPN那么出色，但它的价格相对便宜很多，而且支持支付宝付款，这对中国用户来说特别方便。另外，StrongVPN还提供24小时的中文在线客服支持，遇到问题时可以用中文直接沟通，不用担心语言障碍。如果你只是想购买一款相对稳定可靠的翻墙工具，并不过分追求极致的性能表现的话，StrongVPN绝对值得考虑，性价比还是很不错的。**再次提醒：请慎用任何所谓“StrongVPN 破解版”或“通用VPN 破解版”，既不安全也不**好用**，正规渠道才是长期稳定的保障。**
 
 
-**<p align="center"><a href="https://faststrong.net/?source=github|default" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a></p>**
+**<a href="https://faststrong.net/?source=github|default" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a>**
 
 ### 如何使用支付宝购买StrongVPN？
 
@@ -241,7 +241,7 @@ StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome
 
 ![如何下载StrongVPN APP客户端](https://vpnjs.github.io/vpnassets/img/StrongVPN-4.png)
 
-**<p align="center"><a href="https://faststrong.net/?source=github|default" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a></p>**
+**<a href="https://faststrong.net/?source=github|default" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a>**
 
 ****
 
@@ -261,7 +261,7 @@ PureVPN的价格优势也非常明显，每月仅需2.11美元，是目前市面
 
 总体来看，虽然PureVPN在翻墙稳定性和连接速度方面确实不如ExpressVPN和StrongVPN，但凭借强大的设备兼容性、超低的价格、出色的隐私保护以及在中国大陆的稳定表现，PureVPN一直稳居我们中国VPN排行榜的第三位。**想要长期稳定“好用”的体验，请坚持使用官方版本，谨慎远离任何“破解版”变体。**
 
-**<p align="center"><a href="https://fastpure.net/?source=github|default" rel="nofollow">立即获取PureVPN（每月2.11美金）</a></p>**
+**<a href="https://fastpure.net/?source=github|default" rel="nofollow">立即获取PureVPN（每月2.11美金）</a>**
 
 ****
 
@@ -275,7 +275,7 @@ Surfshark成立于2018年，虽然在VPN领域算是个"新人"，但一上线�
 
 总体来说，Surfshark虽然算不上是**最好用**的中国VPN软件，但凭借不错的安全性、不限设备数量、实惠的价格，以及针对中国用户优化的功能（比如伪装模式和分流技术），还是一款值得考虑的大陆VPN。**若你更追求长期稳定“好用”的体验，应坚持使用官方版本并远离“破解版”。**不过需要提醒大家的是，如果你在工作和生活中对VPN的依赖度很高，我们还是建议你优先选择ExpressVPN和StrongVPN，可以把Surfshark作为备用的中国VPN软件。
 
-**<p align="center"><a href="https://fastsurf-shark.com/" rel="nofollow">立即获取Surfshark</a></p>**
+**<a href="https://fastsurf-shark.com/" rel="nofollow">立即获取Surfshark</a>**
 
 ****
 
@@ -295,7 +295,7 @@ Surfshark成立于2018年，虽然在VPN领域算是个"新人"，但一上线�
 
 总的来说，虽然在中国大陆使用NordVPN需要手动配置，技术门槛确实高一些，但配置好之后的表现依然比较稳定、可用且**好用**。凭借强大的隐私保护、出色的流媒体解锁能力、全球服务器网络和及时的客服支持，NordVPN在技术型用户中一直口碑很好。如果你有一定的技术基础，愿意花点时间折腾手动配置，NordVPN绝对值得一试；**而任何“破解版”都不在建议之列——既不安全也不真正好用。**
 
-**<p align="center"><a href="https://fastnord.net/" rel="nofollow">立即获取NordVPN</a></p>**
+**<a href="https://fastnord.net/" rel="nofollow">立即获取NordVPN</a>**
 
 ****
 
