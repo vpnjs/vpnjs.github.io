@@ -7,7 +7,7 @@ keywords: "VPN, 免费VPN, VPN加速器, 网络加速"
 
 # 免费VPN加速器推荐：2025年适用于中国的翻墙软件和翻墙VPN推荐
 
-<p align="center">最近更新于：2025年9月17日</p>
+<p align="center">最近更新于：2025年10月21日</p>
 
 ![免费VPN加速器推荐：2025年适用于中国的翻墙软件和翻墙VPN推荐](https://vpnjs.github.io/免费VPN加速器推荐.png)
 
