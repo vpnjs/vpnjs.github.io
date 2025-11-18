@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WSWVGJ33');</script>
+<!-- End Google Tag Manager -->
+
+  <!-- Title -->
+  <title>
+    {% if page.title %}
+      {{ page.title }} · {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- Description -->
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% elsif site.description %}
+    <meta name="description" content="{{ site.description }}">
+  {% endif %}
+
+  <!-- Keywords -->
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <!-- Canonical -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Favicon (GitHub Pages 默认) -->
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+
+  <!-- GitHub Pages 默认 CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Additional head content -->
+  {{ site.head }}
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSWVGJ33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div class="container-lg px-3 my-5 markdown-body">
+    {{ content }}
+  </div>
+
+  <!-- GitHub Pages 默认 footer -->
+  <footer class="footer border-top pt-3 text-center text-small text-muted">
+    {{ site.title }} · Powered by GitHub Pages
+  </footer>
+</body>
+</html>
